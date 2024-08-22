@@ -8,6 +8,6 @@ translation famous book to russian from english
 4. edit errors
 
 # global to-do:
-1. add all chapters in this week
+1. add all chapters in this week (added and edited in gitbook 12/17 chs)
 
    
