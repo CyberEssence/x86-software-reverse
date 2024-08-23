@@ -8,6 +8,8 @@ translation famous book to russian from english
 4. edit errors
 
 # global to-do:
-1. add all chapters in this week (added and edited in gitbook 12/17 chs)
+1. add all chapters in this week (added and edited in gitbook 17/17 chs) x
+
+link to gitbook: https://celestia-net.gitbook.io/x86reverse.celestia.net
 
    
